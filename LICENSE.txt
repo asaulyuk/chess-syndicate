@@ -1,0 +1,4 @@
+Copyright © 2026 Marko Asaulyuk. All rights reserved.
+
+No part of this repository may be used, reproduced, or distributed
+without explicit written permission from the copyright holder.
