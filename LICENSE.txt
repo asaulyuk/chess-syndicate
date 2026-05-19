@@ -1,4 +1,8 @@
-Copyright © 2026 Marko Asaulyuk. All rights reserved.
+Copyright notice:
+The Chess Syndicate visual identity, including the alligator chess knight design, seal composition, and overall arrangement, is original creative work © 2026 Marko Asaulyuk. All rights reserved.
 
-No part of this repository may be used, reproduced, or distributed
-without explicit written permission from the copyright holder.
+Disclaimer:
+"SFSU" and "San Francisco State University" are trademarks of the California State University system. Their inclusion in this work does not constitute a claim of ownership over those marks. This work is created independently by a student organization and is not officially endorsed by San Francisco State University.
+
+Usage:
+This work may not be reproduced, modified, or distributed without explicit written permission from the author, except for official use by the Chess Syndicate at SFSU.
