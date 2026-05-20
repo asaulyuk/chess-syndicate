@@ -1,6 +1,6 @@
 # Chess Syndicate Brand
 
-Visual identity and brand assets for the Chess Syndicate at the State.
+Visual identity and brand assets for Chess Syndicate.
 
 ## Contents
 
