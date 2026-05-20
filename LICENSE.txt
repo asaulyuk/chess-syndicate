@@ -7,3 +7,5 @@ Disclaimer:
 
 Usage:
 This work may not be reproduced, modified, or distributed without explicit written permission from the author, except for official use by the Chess Syndicate at SFSU.
+
+Typography: EB Garamond, licensed under the SIL Open Font License (OFL). Free for personal and commercial use.
