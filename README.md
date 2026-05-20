@@ -5,6 +5,7 @@ Visual identity and brand assets for Chess Syndicate.
 ## Contents
 
 - Logo files
+- Officer Recruitment Flyer
 
 ## Copyright
 
